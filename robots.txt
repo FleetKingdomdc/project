@@ -1,0 +1,4 @@
+User-Agent: *
+
+Host: https://voyagerpro.netlify.app/
+Sitemap: https://voyagerpro.netlify.app//sitemap.xml
